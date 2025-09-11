@@ -1,5 +1,5 @@
-# about-me
-
+# 💫 About Me: <h2>👋 Hi ! I'm Daniyel Vanguard</h2>
+<div style="display:flex; gap:5px; flex-wrap:wrap;"><p>🔭 I’m currently working on Espandar Co<br>🌱 I’m currently learning SQLite<br>💬 Ask me about React and Front-end Tech<br>⚡ Fun fact I have INTJ personality <br></p></div>
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
