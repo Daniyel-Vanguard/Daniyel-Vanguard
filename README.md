@@ -7,7 +7,7 @@
 <a href="https://github.com/q-Amyr-p/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Daniyel-Vanguard&show_icons=true&include_all_commits=true&theme=dark" alt="Amyr's github stats" />
 </a>
-
+<br><br>
 <a href="https://github.com/q-Amyr-p/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Daniyel-Vanguard&layout=compact&theme=dark" />
 </a>
