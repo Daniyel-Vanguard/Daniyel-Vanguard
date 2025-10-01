@@ -9,7 +9,8 @@
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/Daniyel-Vabguard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniyel-Vanguard&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Daniyel-Vanguard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyel-Vanguard&layout=compact&theme=buefy&hide_border=true" /></a>
+|<a href="https://github.com/Daniyel-Vabguard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniyel-Vanguard&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Daniyel-Vanguard/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyel-Vanguard&layout=compact&theme=buefy&hide_border=true" /></a>|
+| ------------- | ------------- |
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
